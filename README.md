@@ -1,6 +1,6 @@
 # Demo Projects C#
 
-## Bingap
+## BinGap.CS
 A project from Codility that instructs the programmer to find the number of consecutive 0's in a binary string given any intiger value. 
 
 ## Gyro.xaml.cs
